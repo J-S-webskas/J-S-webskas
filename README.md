@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JenS
-- 👀 I’m interested in coding/computer sicnece/business
+- 👀 I’m interested in coding
 
 <!---
 J-S-webskas/J-S-webskas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
